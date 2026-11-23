@@ -1,0 +1,2772 @@
+{
+  "retrieved": "2026-11-23T14:50:50-05:00",
+  "timezone": "America/New_York",
+  "source": "https://petcarehire.com/jobs",
+  "method": "Paginated HTML listing pages by category and overall. Location parsed from each job card. A job in multiple categories (animal caretaker group) is counted once per group request.",
+  "totals": {
+    "all": 227,
+    "29-2056": 37,
+    "31-9096": 27,
+    "29-1131": 77,
+    "39-2021": 41,
+    "43-4171": 20
+  },
+  "by_state": {
+    "Alabama": {
+      "all": 1,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 1,
+      "43-4171": 0
+    },
+    "Alaska": {
+      "all": 0,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "Arizona": {
+      "all": 13,
+      "29-2056": 1,
+      "31-9096": 0,
+      "29-1131": 5,
+      "39-2021": 3,
+      "43-4171": 0
+    },
+    "Arkansas": {
+      "all": 2,
+      "29-2056": 1,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 1,
+      "43-4171": 0
+    },
+    "California": {
+      "all": 13,
+      "29-2056": 1,
+      "31-9096": 0,
+      "29-1131": 9,
+      "39-2021": 2,
+      "43-4171": 1
+    },
+    "Colorado": {
+      "all": 8,
+      "29-2056": 0,
+      "31-9096": 1,
+      "29-1131": 3,
+      "39-2021": 3,
+      "43-4171": 0
+    },
+    "Connecticut": {
+      "all": 4,
+      "29-2056": 1,
+      "31-9096": 0,
+      "29-1131": 2,
+      "39-2021": 0,
+      "43-4171": 1
+    },
+    "Delaware": {
+      "all": 0,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "District of Columbia": {
+      "all": 0,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "Florida": {
+      "all": 15,
+      "29-2056": 4,
+      "31-9096": 1,
+      "29-1131": 3,
+      "39-2021": 3,
+      "43-4171": 3
+    },
+    "Georgia": {
+      "all": 2,
+      "29-2056": 1,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 1,
+      "43-4171": 0
+    },
+    "Hawaii": {
+      "all": 0,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "Idaho": {
+      "all": 0,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "Illinois": {
+      "all": 4,
+      "29-2056": 1,
+      "31-9096": 1,
+      "29-1131": 0,
+      "39-2021": 1,
+      "43-4171": 1
+    },
+    "Indiana": {
+      "all": 9,
+      "29-2056": 0,
+      "31-9096": 1,
+      "29-1131": 6,
+      "39-2021": 1,
+      "43-4171": 1
+    },
+    "Iowa": {
+      "all": 0,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "Kansas": {
+      "all": 1,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "Kentucky": {
+      "all": 1,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "Louisiana": {
+      "all": 1,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "Maine": {
+      "all": 1,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 1
+    },
+    "Maryland": {
+      "all": 0,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "Massachusetts": {
+      "all": 5,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 3,
+      "39-2021": 2,
+      "43-4171": 0
+    },
+    "Michigan": {
+      "all": 4,
+      "29-2056": 0,
+      "31-9096": 1,
+      "29-1131": 2,
+      "39-2021": 1,
+      "43-4171": 0
+    },
+    "Minnesota": {
+      "all": 3,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 1,
+      "39-2021": 1,
+      "43-4171": 0
+    },
+    "Mississippi": {
+      "all": 0,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "Missouri": {
+      "all": 0,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "Montana": {
+      "all": 2,
+      "29-2056": 1,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "Nebraska": {
+      "all": 0,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "Nevada": {
+      "all": 4,
+      "29-2056": 1,
+      "31-9096": 1,
+      "29-1131": 2,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "New Hampshire": {
+      "all": 6,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 5,
+      "39-2021": 1,
+      "43-4171": 0
+    },
+    "New Jersey": {
+      "all": 3,
+      "29-2056": 0,
+      "31-9096": 1,
+      "29-1131": 0,
+      "39-2021": 2,
+      "43-4171": 0
+    },
+    "New Mexico": {
+      "all": 1,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "New York": {
+      "all": 35,
+      "29-2056": 9,
+      "31-9096": 7,
+      "29-1131": 14,
+      "39-2021": 1,
+      "43-4171": 4
+    },
+    "North Carolina": {
+      "all": 11,
+      "29-2056": 0,
+      "31-9096": 1,
+      "29-1131": 2,
+      "39-2021": 4,
+      "43-4171": 0
+    },
+    "North Dakota": {
+      "all": 0,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "Ohio": {
+      "all": 9,
+      "29-2056": 3,
+      "31-9096": 1,
+      "29-1131": 1,
+      "39-2021": 2,
+      "43-4171": 1
+    },
+    "Oklahoma": {
+      "all": 0,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "Oregon": {
+      "all": 4,
+      "29-2056": 1,
+      "31-9096": 0,
+      "29-1131": 1,
+      "39-2021": 0,
+      "43-4171": 2
+    },
+    "Pennsylvania": {
+      "all": 8,
+      "29-2056": 2,
+      "31-9096": 1,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 1
+    },
+    "Puerto Rico": {
+      "all": 0,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "Rhode Island": {
+      "all": 1,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 1,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "South Carolina": {
+      "all": 10,
+      "29-2056": 1,
+      "31-9096": 1,
+      "29-1131": 5,
+      "39-2021": 3,
+      "43-4171": 0
+    },
+    "South Dakota": {
+      "all": 0,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "Tennessee": {
+      "all": 0,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "Texas": {
+      "all": 16,
+      "29-2056": 4,
+      "31-9096": 2,
+      "29-1131": 4,
+      "39-2021": 3,
+      "43-4171": 2
+    },
+    "Utah": {
+      "all": 1,
+      "29-2056": 1,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "Vermont": {
+      "all": 1,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 1,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "Virginia": {
+      "all": 7,
+      "29-2056": 2,
+      "31-9096": 0,
+      "29-1131": 1,
+      "39-2021": 2,
+      "43-4171": 1
+    },
+    "Washington": {
+      "all": 3,
+      "29-2056": 1,
+      "31-9096": 1,
+      "29-1131": 1,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "West Virginia": {
+      "all": 0,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "Wisconsin": {
+      "all": 3,
+      "29-2056": 0,
+      "31-9096": 1,
+      "29-1131": 1,
+      "39-2021": 0,
+      "43-4171": 0
+    },
+    "Wyoming": {
+      "all": 0,
+      "29-2056": 0,
+      "31-9096": 0,
+      "29-1131": 0,
+      "39-2021": 0,
+      "43-4171": 0
+    }
+  },
+  "occupations": {
+    "29-2056": {
+      "ids": [
+        19673
+      ],
+      "key": "vet_tech",
+      "count": 37
+    },
+    "31-9096": {
+      "ids": [
+        19674
+      ],
+      "key": "vet_assistant",
+      "count": 27
+    },
+    "29-1131": {
+      "ids": [
+        19676
+      ],
+      "key": "veterinarian",
+      "count": 77
+    },
+    "39-2021": {
+      "ids": [
+        19679,
+        19678,
+        19680,
+        19681
+      ],
+      "key": "animal_caretaker",
+      "count": 41
+    },
+    "43-4171": {
+      "ids": [
+        19675
+      ],
+      "key": "receptionist",
+      "count": 20
+    }
+  },
+  "unknown_or_remote": {
+    "all": 15,
+    "29-2056": 1,
+    "31-9096": 5,
+    "29-1131": 4,
+    "39-2021": 3,
+    "43-4171": 1
+  },
+  "empty_combos": [
+    {
+      "state": "Alabama",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Alabama",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Alabama",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "Alabama",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Alaska",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Alaska",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Alaska",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "Alaska",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Alaska",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Arizona",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Arizona",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Arkansas",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Arkansas",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "Arkansas",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "California",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Colorado",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Colorado",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Connecticut",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Connecticut",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Delaware",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Delaware",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Delaware",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "Delaware",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Delaware",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "District of Columbia",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "District of Columbia",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "District of Columbia",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "District of Columbia",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "District of Columbia",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Georgia",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Georgia",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "Georgia",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Hawaii",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Hawaii",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Hawaii",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "Hawaii",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Hawaii",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Idaho",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Idaho",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Idaho",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "Idaho",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Idaho",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Illinois",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "Indiana",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Iowa",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Iowa",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Iowa",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "Iowa",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Iowa",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Kansas",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Kansas",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Kansas",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "Kansas",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Kansas",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Kentucky",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Kentucky",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Kentucky",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "Kentucky",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Kentucky",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Louisiana",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Louisiana",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Louisiana",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "Louisiana",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Louisiana",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Maine",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Maine",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Maine",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "Maine",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Maryland",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Maryland",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Maryland",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "Maryland",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Maryland",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Massachusetts",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Massachusetts",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Massachusetts",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Michigan",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Michigan",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Minnesota",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Minnesota",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Minnesota",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Mississippi",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Mississippi",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Mississippi",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "Mississippi",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Mississippi",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Missouri",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Missouri",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Missouri",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "Missouri",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Missouri",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Montana",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Montana",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "Montana",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Montana",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Nebraska",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Nebraska",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Nebraska",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "Nebraska",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Nebraska",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Nevada",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Nevada",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "New Hampshire",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "New Hampshire",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "New Hampshire",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "New Jersey",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "New Jersey",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "New Jersey",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "New Mexico",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "New Mexico",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "New Mexico",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "New Mexico",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "New Mexico",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "North Carolina",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "North Carolina",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "North Dakota",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "North Dakota",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "North Dakota",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "North Dakota",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "North Dakota",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Oklahoma",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Oklahoma",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Oklahoma",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "Oklahoma",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Oklahoma",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Oregon",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Oregon",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Pennsylvania",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "Pennsylvania",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Puerto Rico",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Puerto Rico",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Puerto Rico",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "Puerto Rico",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Puerto Rico",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Rhode Island",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Rhode Island",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Rhode Island",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Rhode Island",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "South Carolina",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "South Dakota",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "South Dakota",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "South Dakota",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "South Dakota",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "South Dakota",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Tennessee",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Tennessee",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Tennessee",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "Tennessee",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Tennessee",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Utah",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Utah",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "Utah",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Utah",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Vermont",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Vermont",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Vermont",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Vermont",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Virginia",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Washington",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Washington",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "West Virginia",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "West Virginia",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "West Virginia",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "West Virginia",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "West Virginia",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Wisconsin",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Wisconsin",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Wisconsin",
+      "occ": "43-4171",
+      "group": "receptionist"
+    },
+    {
+      "state": "Wyoming",
+      "occ": "29-2056",
+      "group": "vet_tech"
+    },
+    {
+      "state": "Wyoming",
+      "occ": "31-9096",
+      "group": "vet_assistant"
+    },
+    {
+      "state": "Wyoming",
+      "occ": "29-1131",
+      "group": "veterinarian"
+    },
+    {
+      "state": "Wyoming",
+      "occ": "39-2021",
+      "group": "animal_caretaker"
+    },
+    {
+      "state": "Wyoming",
+      "occ": "43-4171",
+      "group": "receptionist"
+    }
+  ],
+  "empty_combo_count": 173,
+  "states_with_any_jobs": [
+    "Alabama",
+    "Arizona",
+    "Arkansas",
+    "California",
+    "Colorado",
+    "Connecticut",
+    "Florida",
+    "Georgia",
+    "Illinois",
+    "Indiana",
+    "Kansas",
+    "Kentucky",
+    "Louisiana",
+    "Maine",
+    "Massachusetts",
+    "Michigan",
+    "Minnesota",
+    "Montana",
+    "Nevada",
+    "New Hampshire",
+    "New Jersey",
+    "New Mexico",
+    "New York",
+    "North Carolina",
+    "Ohio",
+    "Oregon",
+    "Pennsylvania",
+    "Rhode Island",
+    "South Carolina",
+    "Texas",
+    "Utah",
+    "Vermont",
+    "Virginia",
+    "Washington",
+    "Wisconsin"
+  ],
+  "states_with_zero_jobs": [
+    "Alaska",
+    "Delaware",
+    "District of Columbia",
+    "Hawaii",
+    "Idaho",
+    "Iowa",
+    "Maryland",
+    "Mississippi",
+    "Missouri",
+    "Nebraska",
+    "North Dakota",
+    "Oklahoma",
+    "Puerto Rico",
+    "South Dakota",
+    "Tennessee",
+    "West Virginia",
+    "Wyoming"
+  ],
+  "jobs_all": [
+    {
+      "href": "/jobs/licensed-veterinary-technician-7d3a44a6",
+      "title": "Licensed Veterinary Technician",
+      "state": "New York",
+      "loc": "Licensed Veterinary Technician AmeriVet Full-time Full-time On-site Garden City, New York, United States"
+    },
+    {
+      "href": "/jobs/veterinary-technician-lvt-cdc4b829",
+      "title": "Veterinary Technician (LVT)",
+      "state": "New York",
+      "loc": " VetCor Part-time Part-time On-site Lynbrook, New York, United States"
+    },
+    {
+      "href": "/jobs/licensed-veterinary-technician-30b51ab1",
+      "title": "Licensed Veterinary Technician",
+      "state": "New York",
+      "loc": "Licensed Veterinary Technician VetCor Full-time Full-time On-site Sayville, New York, United States"
+    },
+    {
+      "href": "/jobs/emergency-veterinarian-9e5dd2d8",
+      "title": "Emergency Veterinarian",
+      "state": "New York",
+      "loc": "Emergency Veterinarian Desort Full-time Full-time On-site Huntington, New York, United States"
+    },
+    {
+      "href": "/jobs/veterinary-assistant-b6d98f1e",
+      "title": "Veterinary Assistant",
+      "state": "New York",
+      "loc": "Veterinary Assistant VCA Animal Hospitals Part-time Part-time On-site East Northport, New York, United States"
+    },
+    {
+      "href": "/jobs/veterinary-assistant-a950f0be",
+      "title": "Veterinary Assistant",
+      "state": "New York",
+      "loc": "Veterinary Assistant Petco Full-time Full-time On-site Plainview, New York, United States"
+    },
+    {
+      "href": "/jobs/licensed-veterinary-technician-52f30af6",
+      "title": "Licensed Veterinary Technician",
+      "state": "New York",
+      "loc": "Licensed Veterinary Technician Petco Full-time Full-time On-site Patchogue, New York, United States"
+    },
+    {
+      "href": "/jobs/veterinary-assistant-surgery-deddbe4d",
+      "title": "Veterinary Assistant - Surgery",
+      "state": "New York",
+      "loc": "Veterinary Assistant - Surgery Innovetive Petcare Full-time Full-time On-site Huntington, New York, United States"
+    },
+    {
+      "href": "/jobs/licensed-veterinary-technician-surgery-776ff548",
+      "title": "Licensed Veterinary Technician – Surgery",
+      "state": "New York",
+      "loc": " Surgery Innovetive Petcare Full-time Full-time On-site Huntington, New York, United States"
+    },
+    {
+      "href": "/jobs/veterinarian-sayville-ny-558ecf61",
+      "title": "Veterinarian - Sayville, NY",
+      "state": "New York",
+      "loc": " NY Vetcor Full-time Full-time On-site Sayville, New York, United States"
+    },
+    {
+      "href": "/jobs/veterinary-assistant-e6d27c4f",
+      "title": "Veterinary Assistant",
+      "state": "New York",
+      "loc": "Veterinary Assistant VCA Animal Hospitals Part-time Part-time On-site Sayville, New York, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-part-time-886e4dae",
+      "title": "Associate Veterinarian- Part-Time",
+      "state": "New York",
+      "loc": "Associate Veterinarian- Part-Time Petco Part-time Part-time On-site Patchogue, New York, United States"
+    },
+    {
+      "href": "/jobs/licensed-veterinary-technician-d67de5f2",
+      "title": "Licensed Veterinary Technician",
+      "state": "New York",
+      "loc": "Licensed Veterinary Technician Destination Pet Full-time Full-time On-site Hempstead, New York, United States"
+    },
+    {
+      "href": "/jobs/veterinary-assistant-emergency-18878a4c",
+      "title": "Veterinary Assistant, Emergency",
+      "state": "New York",
+      "loc": " Emergency Ethos Veterinary Health Full-time Full-time On-site Riverhead, New York, United States"
+    },
+    {
+      "href": "/jobs/licensed-veterinary-technician-emergency-1fed26a6",
+      "title": "Licensed Veterinary Technician, Emergency",
+      "state": "New York",
+      "loc": " Emergency Ethos Veterinary Health Full-time Full-time On-site Riverhead, New York, United States"
+    },
+    {
+      "href": "/jobs/urgent-care-veterinarian-oceanside-new-york-48df965a",
+      "title": "Urgent Care Veterinarian – Oceanside, New York",
+      "state": "New York",
+      "loc": " New York FenixHire Full-time Full-time On-site Oceanside, New York, United States"
+    },
+    {
+      "href": "/jobs/weekend-veterinary-assistant-experienced-983922d1",
+      "title": "Weekend Veterinary Assistant (Experienced)",
+      "state": "New York",
+      "loc": " Innovetive Petcare Part-time Part-time On-site Huntington, New York, United States"
+    },
+    {
+      "href": "/jobs/veterinary-technician-certified-in-canine-physical-rehabilitation-49c3cef0",
+      "title": "Veterinary Technician Certified in Canine Physical Rehabilitation",
+      "state": "New York",
+      "loc": "Veterinary Technician Certified in Canine Physical Rehabilitation Innovetive Petcare Full-time Full-time On-site Huntington, New York, United States"
+    },
+    {
+      "href": "/jobs/professional-pet-groomer-pet-spa-team-d7068a13",
+      "title": "Professional Pet Groomer - Pet Spa Team",
+      "state": "Texas",
+      "loc": "Professional Pet Groomer - Pet Spa Team PetSuites Full-time Full-time On-site Humble, Texas, United States"
+    },
+    {
+      "href": "/jobs/on-call-veterinary-assistant-d9f3b3ed",
+      "title": "(On-Call) Veterinary Assistant",
+      "state": "Nevada",
+      "loc": " Veterinary Assistant Viticus Group Part-time Part-time On-site Las Vegas, Nevada, United States"
+    },
+    {
+      "href": "/jobs/on-call-licensed-veterinary-technician-lvt-a47b111f",
+      "title": "(On-Call) Licensed Veterinary Technician (LVT)",
+      "state": "Nevada",
+      "loc": " Viticus Group Part-time Part-time On-site Las Vegas, Nevada, United States"
+    },
+    {
+      "href": "/jobs/kennel-technician-5fc66294",
+      "title": "Kennel Technician",
+      "state": "Arizona",
+      "loc": "Kennel Technician Kingsmark Kennels Full-time Full-time On-site Flagstaff, Arizona, United States"
+    },
+    {
+      "href": "/jobs/animal-care-technician-cd2b524d",
+      "title": "Animal Care Technician",
+      "state": "South Carolina",
+      "loc": "Animal Care Technician My Three Dogs Summerville Part-time Part-time On-site Summerville, South Carolina, United States"
+    },
+    {
+      "href": "/jobs/portland-area-lead-veterinary-technician-68883c76",
+      "title": "Portland Area - Lead Veterinary Technician",
+      "state": "Oregon",
+      "loc": "Portland Area - Lead Veterinary Technician AOSN Dermatology Full-time Full-time On-site Portland, Oregon, United States"
+    },
+    {
+      "href": "/jobs/licensed-veterinary-technician-04584356",
+      "title": "Licensed Veterinary Technician",
+      "state": "Washington",
+      "loc": "Licensed Veterinary Technician Cara Veterinary On-site Woodinville, Washington, United States"
+    },
+    {
+      "href": "/jobs/experienced-registered-veterinary-technician-43e1f625",
+      "title": "Experienced Registered Veterinary Technician",
+      "state": "Georgia",
+      "loc": "Experienced Registered Veterinary Technician Animal Outpatient Specialty Network Full-time Full-time On-site Marietta, Georgia, United States"
+    },
+    {
+      "href": "/jobs/surgery-veterinary-assistant-46349cdc",
+      "title": "Surgery Veterinary Assistant",
+      "state": "Michigan",
+      "loc": "Surgery Veterinary Assistant Humane Society of Huron Valley Full-time Full-time On-site Ann Arbor, Michigan, United States"
+    },
+    {
+      "href": "/jobs/vet-tech-community-db03efbc",
+      "title": "Vet Tech-Community",
+      "state": "Texas",
+      "loc": "O Vet Tech-Community OPERATION KINDNESS HUMANE SOCIETY Full-time Full-time On-site Dallas, Texas, United States"
+    },
+    {
+      "href": "/jobs/animal-care-technician-3d5a10e7",
+      "title": "Animal Care Technician",
+      "state": "Arizona",
+      "loc": "Animal Care Technician Foothills Pet Resort Full-time Full-time On-site Phoenix, Arizona, United States"
+    },
+    {
+      "href": "/jobs/veterinary-receptionist-newberg-or-6a4c166a",
+      "title": "Veterinary Receptionist - Newberg, OR",
+      "state": "Oregon",
+      "loc": " OR VetCor Full-time Full-time On-site Newberg, Oregon, United States"
+    },
+    {
+      "href": "/jobs/veterinary-assistant-ii-75ab0444",
+      "title": "Veterinary Assistant II",
+      "state": "Illinois",
+      "loc": "A Veterinary Assistant II Anti-Cruelty On-site Chicago, Illinois, United States"
+    },
+    {
+      "href": "/jobs/veterinary-technician-assistant-f2cbad2a",
+      "title": "Veterinary Technician Assistant",
+      "state": "Colorado",
+      "loc": "Veterinary Technician Assistant VetCor Full-time Full-time On-site Carbondale, Colorado, United States"
+    },
+    {
+      "href": "/jobs/veterinary-assistant-efd7a62e",
+      "title": "Veterinary Assistant",
+      "state": "New Jersey",
+      "loc": "Veterinary Assistant VetCor Full-time Full-time On-site Cresskill, New Jersey, United States"
+    },
+    {
+      "href": "/jobs/veterinary-technician-rvt-cce29b0b",
+      "title": "Veterinary Technician (RVT)",
+      "state": "Ohio",
+      "loc": " VetCor Full-time Full-time On-site Boardman, Ohio, United States"
+    },
+    {
+      "href": "/jobs/professional-pet-groomer-pet-spa-team-893ac82e",
+      "title": "Professional Pet Groomer - Pet Spa Team",
+      "state": "Ohio",
+      "loc": "Ohio, United States"
+    },
+    {
+      "href": "/jobs/veterinary-client-services-supervisor-emergency-critical-care-95583795",
+      "title": "Veterinary Client Services Supervisor - Emergency &amp; Critical Care",
+      "state": "Florida",
+      "loc": " Critical Care University of Florida Full-time Full-time On-site Gainesville, Florida, United States"
+    },
+    {
+      "href": "/jobs/veterinary-client-service-representative-i-ii-care-84406e52",
+      "title": "Veterinary Client Service Representative I/II (CARE)",
+      "state": "Florida",
+      "loc": " University of Florida Full-time Full-time On-site Gainesville, Florida, United States"
+    },
+    {
+      "href": "/jobs/small-animal-veterinarian-tucson-az-94108bd1",
+      "title": "Small Animal Veterinarian – Tucson, AZ",
+      "state": "Arizona",
+      "loc": " AZ Desort Full-time Full-time On-site Tucson, Arizona, United States"
+    },
+    {
+      "href": "/jobs/urgent-care-veterinarian-specialist-lacey-wa-fc586ca7",
+      "title": "Urgent Care Veterinarian Specialist – Lacey, WA",
+      "state": "Washington",
+      "loc": " WA Desort Full-time Full-time On-site Lacey, Washington, United States"
+    },
+    {
+      "href": "/jobs/licensed-veterinary-technician-shift-lead-7d3f0852",
+      "title": "Licensed Veterinary Technician, Shift Lead",
+      "state": "Virginia",
+      "loc": " Shift Lead Ethos Veterinary Health Full-time Full-time On-site Winchester, Virginia, United States"
+    },
+    {
+      "href": "/jobs/veterinary-technician-multiple-levels-and-departments-cbd0c5d9",
+      "title": "Veterinary Technician - Multiple Levels and Departments",
+      "state": "Texas",
+      "loc": "M Full-time Full-time On-site College Station, Texas, United States"
+    },
+    {
+      "href": "/jobs/veterinarian-i-0-75-fte-d1d191af",
+      "title": "Veterinarian I (0.75 FTE)",
+      "state": "California",
+      "loc": " City of Chula Vista Full-time Full-time On-site Chula Vista, California, United States"
+    },
+    {
+      "href": "/jobs/vetco-veterinary-assistant-4829fea0",
+      "title": "Vetco Veterinary Assistant",
+      "state": "Pennsylvania",
+      "loc": "Vetco Veterinary Assistant Petco Full-time Full-time On-site Allentown, Pennsylvania, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-dvm-southfield-mi-0891d302",
+      "title": "Associate Veterinarian (DVM) – Southfield, MI",
+      "state": "Michigan",
+      "loc": " MI Desort Full-time Full-time On-site Southfield, Michigan, United States"
+    },
+    {
+      "href": "/jobs/animal-care-attendant-flexible-working-hours-3259c242",
+      "title": "Animal Care Attendant (Flexible Working Hours)",
+      "state": null,
+      "loc": null
+    },
+    {
+      "href": "/jobs/animal-care-attendant-flexible-working-hours-c1ccd8d6",
+      "title": "Animal Care Attendant (Flexible Working Hours)",
+      "state": null,
+      "loc": null
+    },
+    {
+      "href": "/jobs/general-practice-veterinarian-st-johnsbury-vt-7ad4eeba",
+      "title": "General Practice Veterinarian – St. Johnsbury, VT",
+      "state": "Vermont",
+      "loc": "St. Johnsbury, Vermont, United States"
+    },
+    {
+      "href": "/jobs/professional-pet-groomer-pet-spa-team-fdb95a55",
+      "title": "Professional Pet Groomer - Pet Spa Team",
+      "state": "Texas",
+      "loc": "Professional Pet Groomer - Pet Spa Team PetSuites Full-time Full-time On-site San Antonio, Texas, United States"
+    },
+    {
+      "href": "/jobs/veterinary-assistant-001314-b224de80",
+      "title": "Veterinary Assistant - 001314",
+      "state": null,
+      "loc": null
+    },
+    {
+      "href": "/jobs/animal-care-attendant-flexible-working-hours-7908f152",
+      "title": "Animal Care Attendant (Flexible Working Hours)",
+      "state": "New Hampshire",
+      "loc": " Destination Pet Part-time Part-time On-site Dover, New Hampshire, United States"
+    },
+    {
+      "href": "/jobs/small-animal-emergency-veterinarian-humble-tx-8bbdf279",
+      "title": "Small Animal Emergency Veterinarian – Humble, TX",
+      "state": "Texas",
+      "loc": " TX Desort Full-time Full-time On-site Humble, Texas, United States"
+    },
+    {
+      "href": "/jobs/relief-veterinarian-dc77228e",
+      "title": "Relief Veterinarian",
+      "state": "Texas",
+      "loc": "Relief Veterinarian VCA Animal Hospitals Part-time Part-time On-site Corpus Christi, Texas, United States"
+    },
+    {
+      "href": "/jobs/veterinarian-part-time-bb6faa00",
+      "title": "Veterinarian - Part-Time",
+      "state": null,
+      "loc": null
+    },
+    {
+      "href": "/jobs/overnight-veterinary-assistant-69388385",
+      "title": "Overnight Veterinary Assistant",
+      "state": null,
+      "loc": null
+    },
+    {
+      "href": "/jobs/associate-veterinarian-3cb45006",
+      "title": "Associate Veterinarian",
+      "state": "New York",
+      "loc": "Associate Veterinarian VCA Animal Hospitals Full-time Full-time On-site Watertown, New York, United States"
+    },
+    {
+      "href": "/jobs/veterinary-assistant-ii-29ddb36c",
+      "title": "Veterinary Assistant II",
+      "state": "Texas",
+      "loc": "Veterinary Assistant II Chewy Full-time Full-time On-site McKinney, Texas, United States"
+    },
+    {
+      "href": "/jobs/small-animal-veterinarian-stockton-california-538d7755",
+      "title": "Small-Animal Veterinarian – Stockton, California",
+      "state": "California",
+      "loc": " California Desort Full-time Full-time On-site Stockton, California, United States"
+    },
+    {
+      "href": "/jobs/veterinarian-full-time-ff349642",
+      "title": "Veterinarian - Full-Time",
+      "state": null,
+      "loc": null
+    },
+    {
+      "href": "/jobs/veterinarian-leadership-equity-opportunity-tucson-az-18e97410",
+      "title": "Veterinarian – Leadership &amp; Equity Opportunity – Tucson, AZ",
+      "state": "Arizona",
+      "loc": " AZ Desort Full-time Full-time On-site Tucson, Arizona, United States"
+    },
+    {
+      "href": "/jobs/small-animal-veterinarian-eau-claire-wi-29cdfcb8",
+      "title": "Small Animal Veterinarian – Eau Claire, WI",
+      "state": "Wisconsin",
+      "loc": " WI Desort Full-time Full-time On-site Eau Claire, Wisconsin, United States"
+    },
+    {
+      "href": "/jobs/icu-er-veterinary-technician-overnight-supervisor-teams-bdbfa1b3",
+      "title": "ICU/ER Veterinary Technician Overnight Supervisor (TEAMS)",
+      "state": "Florida",
+      "loc": " University of Florida Full-time Full-time On-site Gainesville, Florida, United States"
+    },
+    {
+      "href": "/jobs/emergency-care-veterinarian-naples-fl-0a8c4383",
+      "title": "Emergency Care Veterinarian – Naples, FL",
+      "state": "Florida",
+      "loc": " FL Desort Full-time Full-time On-site Naples, Florida, United States"
+    },
+    {
+      "href": "/jobs/veterinarian-full-time-c901d473",
+      "title": "Veterinarian - Full-Time",
+      "state": null,
+      "loc": null
+    },
+    {
+      "href": "/jobs/veterinary-assistant-002445-ddb027d2",
+      "title": "Veterinary Assistant - 002445",
+      "state": null,
+      "loc": null
+    },
+    {
+      "href": "/jobs/er-small-animal-veterinarian-burton-mi-516d3ede",
+      "title": "(ER) Small-Animal Veterinarian – Burton, MI",
+      "state": "Michigan",
+      "loc": " MI Desort Full-time Full-time On-site Burton, Michigan, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-beaumont-ca-18960bb4",
+      "title": "Associate Veterinarian – Beaumont, CA",
+      "state": "Texas",
+      "loc": " CA Desort Full-time Full-time On-site Beaumont, Texas, United States"
+    },
+    {
+      "href": "/jobs/general-practice-associate-veterinarian-tucson-az-a3f52e6c",
+      "title": "General Practice Associate Veterinarian – Tucson, AZ",
+      "state": "Arizona",
+      "loc": " AZ Desort Full-time Full-time On-site Tucson, Arizona, United States"
+    },
+    {
+      "href": "/jobs/veterinary-assistant-80ae73db",
+      "title": "Veterinary Assistant",
+      "state": null,
+      "loc": null
+    },
+    {
+      "href": "/jobs/small-animal-veterinarian-stockton-ca-f25d83cf",
+      "title": "Small Animal Veterinarian – Stockton, CA",
+      "state": "California",
+      "loc": " CA Desort Full-time Full-time On-site Stockton, California, United States"
+    },
+    {
+      "href": "/jobs/medical-director-veterinarian-phoenix-az-cfc45a29",
+      "title": "Medical Director Veterinarian – Phoenix, AZ",
+      "state": "Arizona",
+      "loc": " AZ Desort Full-time Full-time On-site Phoenix, Arizona, United States"
+    },
+    {
+      "href": "/jobs/lead-veterinarian-phoenix-az-cb8c72f9",
+      "title": "Lead Veterinarian – Phoenix, AZ",
+      "state": "Arizona",
+      "loc": " AZ Desort Full-time Full-time On-site Phoenix, Arizona, United States"
+    },
+    {
+      "href": "/jobs/general-practice-veterinarian-dvm-pahrump-nv-db895667",
+      "title": "General Practice Veterinarian DVM – Pahrump, NV",
+      "state": "Nevada",
+      "loc": " NV Desort Full-time Full-time On-site Pahrump, Nevada, United States"
+    },
+    {
+      "href": "/jobs/dvm-general-practice-veterinarian-wakefield-ri-e4844380",
+      "title": "(DVM) – General Practice Veterinarian – Wakefield, RI",
+      "state": "Rhode Island",
+      "loc": " RI Desort Full-time Full-time On-site South Kingstown, Rhode Island, United States"
+    },
+    {
+      "href": "/jobs/animal-care-attendant-flexible-working-hours-6ba0df34",
+      "title": "Animal Care Attendant (Flexible Working Hours)",
+      "state": "Florida",
+      "loc": " Destination Pet Part-time Part-time On-site Kissimmee, Florida, United States"
+    },
+    {
+      "href": "/jobs/experienced-veterinary-assistant-ec1e0eb2",
+      "title": "Experienced Veterinary Assistant",
+      "state": null,
+      "loc": null
+    },
+    {
+      "href": "/jobs/veterinarian-1f1ca838",
+      "title": "Veterinarian",
+      "state": null,
+      "loc": null
+    },
+    {
+      "href": "/jobs/companion-animal-veterinarian-dade-city-fl-d3a80f29",
+      "title": "Companion Animal Veterinarian – Dade City, FL",
+      "state": "Florida",
+      "loc": "Dade City, Florida, United States"
+    },
+    {
+      "href": "/jobs/medical-oncology-veterinary-assistant-6bb38313",
+      "title": "Medical Oncology Veterinary Assistant",
+      "state": "Florida",
+      "loc": "Medical Oncology Veterinary Assistant University of Florida Full-time Full-time On-site Gainesville, Florida, United States"
+    },
+    {
+      "href": "/jobs/general-practice-veterinarian-baxter-mn-c48a91ed",
+      "title": "General Practice Veterinarian – Baxter, MN",
+      "state": "Minnesota",
+      "loc": "Baxter, Minnesota, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-small-animal-lakeland-fl-cdd69d60",
+      "title": "Associate Veterinarian (Small Animal) – Lakeland, FL",
+      "state": "Florida",
+      "loc": " FL Desort Full-time Full-time On-site Lakeland, Florida, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-dvm-las-vegas-nv-790bae1c",
+      "title": "Associate Veterinarian (DVM) – Las Vegas, NV",
+      "state": "Nevada",
+      "loc": " NV Desort Full-time Full-time On-site Las Vegas, Nevada, United States"
+    },
+    {
+      "href": "/jobs/registered-veterinary-technician-shadow-hills-pet-clinic-5b0bb4d3",
+      "title": "Registered Veterinary Technician - Shadow Hills Pet Clinic",
+      "state": "California",
+      "loc": "Registered Veterinary Technician - Shadow Hills Pet Clinic AmeriVet Full-time Full-time On-site Sun Valley, California, United States"
+    },
+    {
+      "href": "/jobs/small-animal-veterinarian-er-havelock-nc-a8d01ce7",
+      "title": "Small-Animal Veterinarian (ER) – Havelock, NC",
+      "state": "North Carolina",
+      "loc": " NC Desort Full-time Full-time On-site Havelock, North Carolina, United States"
+    },
+    {
+      "href": "/jobs/small-animal-veterinarian-lima-oh-569e1d84",
+      "title": "Small Animal Veterinarian – Lima, OH",
+      "state": "Ohio",
+      "loc": " OH Desort Full-time Full-time On-site Lima, Ohio, United States"
+    },
+    {
+      "href": "/jobs/veterinary-technician-67ac2ea1",
+      "title": "Veterinary Technician",
+      "state": "Pennsylvania",
+      "loc": "Veterinary Technician VCA Animal Hospitals Full-time Full-time On-site Emmaus, Pennsylvania, United States"
+    },
+    {
+      "href": "/jobs/mixed-animal-medical-director-veterinarian-6905dd32",
+      "title": "Mixed Animal Medical Director Veterinarian",
+      "state": "Colorado",
+      "loc": "Mixed Animal Medical Director Veterinarian AmeriVet Full-time Full-time On-site Pagosa Springs, Colorado, United States"
+    },
+    {
+      "href": "/jobs/medical-director-veterinarian-san-rafael-ca-afdda981",
+      "title": "Medical Director Veterinarian – San Rafael, CA",
+      "state": "California",
+      "loc": " CA Desort Full-time Full-time On-site San Rafael, California, United States"
+    },
+    {
+      "href": "/jobs/mixed-animal-veterinarian-catlett-va-cf383b4d",
+      "title": "Mixed Animal Veterinarian – Catlett, VA",
+      "state": "Virginia",
+      "loc": " VA Desort Full-time Full-time On-site Catlett, Virginia, United States"
+    },
+    {
+      "href": "/jobs/small-animal-veterinarian-pagosa-springs-co-e8460857",
+      "title": "Small Animal Veterinarian – Pagosa Springs, CO",
+      "state": "Colorado",
+      "loc": " CO Desort Full-time Full-time On-site Pagosa Springs, Colorado, United States"
+    },
+    {
+      "href": "/jobs/crew-leader-animal-control-animal-shelter-dacdc3ab",
+      "title": "Crew Leader, Animal Control, Animal Shelter",
+      "state": "Louisiana",
+      "loc": " Louisiana Full-time Full-time On-site Alexandria, Louisiana, United States"
+    },
+    {
+      "href": "/jobs/mixed-animal-veterinarian-e6eca4e9",
+      "title": "Mixed Animal Veterinarian",
+      "state": "Colorado",
+      "loc": "Mixed Animal Veterinarian AmeriVet Full-time Full-time On-site Pagosa Springs, Colorado, United States"
+    },
+    {
+      "href": "/jobs/veterinary-assistant-574a64fe",
+      "title": "Veterinary Assistant",
+      "state": "Washington",
+      "loc": "Veterinary Assistant VCA Animal Hospitals Full-time Full-time On-site Vancouver, Washington, United States"
+    },
+    {
+      "href": "/jobs/veterinary-assistant-ny-upper-west-side-031f9cee",
+      "title": "Veterinary Assistant - NY - Upper West Side",
+      "state": "New York",
+      "loc": "Veterinary Assistant - NY - Upper West Side Small Door Veterinary Full-time Full-time On-site New York, New York, United States"
+    },
+    {
+      "href": "/jobs/veterinary-technician-radiation-oncology-bf9bdb4f",
+      "title": "Veterinary Technician - Radiation Oncology",
+      "state": null,
+      "loc": null
+    },
+    {
+      "href": "/jobs/veterinary-technician-senior-veterinary-specialist-or-veterinary-specialist-depending-on-experience-ad046d32",
+      "title": "Veterinary Technician, Senior Veterinary Specialist, or Veterinary Specialist (depending on experience)",
+      "state": "Utah",
+      "loc": " Best Friends Full-time Full-time On-site Kanab, Utah, United States"
+    },
+    {
+      "href": "/jobs/veterinarian-central-point-or-7f2836a5",
+      "title": "Veterinarian – Central Point, OR",
+      "state": "Oregon",
+      "loc": " OR Desort Full-time Full-time On-site Central Point, Oregon, United States"
+    },
+    {
+      "href": "/jobs/licensed-veterinary-technician-bd6c17d1",
+      "title": "Licensed Veterinary Technician",
+      "state": "Virginia",
+      "loc": "Licensed Veterinary Technician Lynchburg Humane Society Full-time Full-time On-site Lynchburg, Virginia, United States"
+    },
+    {
+      "href": "/jobs/emergency-veterinary-technician-7a4a730d",
+      "title": "Emergency Veterinary Technician",
+      "state": "Arizona",
+      "loc": "Emergency Veterinary Technician 1st Pet Veterinary Centers Full-time Full-time On-site Phoenix, Arizona, United States"
+    },
+    {
+      "href": "/jobs/veterinary-technician-416c2449",
+      "title": "Veterinary Technician",
+      "state": "Ohio",
+      "loc": "Veterinary Technician VetCor Full-time Full-time On-site East Canton, Ohio, United States"
+    },
+    {
+      "href": "/jobs/kennel-technician-syracuse-ny-f491c952",
+      "title": "Kennel Technician - Syracuse, NY",
+      "state": "Massachusetts",
+      "loc": " NY VetCor Full-time Full-time On-site Hadley, Massachusetts, United States"
+    },
+    {
+      "href": "/jobs/veterinary-technician-assistant-d026596f",
+      "title": "Veterinary Technician/Assistant",
+      "state": "Texas",
+      "loc": "Assistant VetCor Full-time Full-time On-site Frisco, Texas, United States"
+    },
+    {
+      "href": "/jobs/credentialed-veterinary-technician-118460fe",
+      "title": "Credentialed Veterinary Technician",
+      "state": "New York",
+      "loc": "Credentialed Veterinary Technician VetCor Full-time Full-time On-site Shirley, New York, United States"
+    },
+    {
+      "href": "/jobs/veterinary-technician-6fdf806d",
+      "title": "Veterinary Technician",
+      "state": "Texas",
+      "loc": "Veterinary Technician VetCor Full-time Full-time On-site McKinney, Texas, United States"
+    },
+    {
+      "href": "/jobs/veterinary-technician-11198384",
+      "title": "Veterinary Technician",
+      "state": "Florida",
+      "loc": "Veterinary Technician AOSN Dentistry Full-time Full-time On-site Estero, Florida, United States"
+    },
+    {
+      "href": "/jobs/veterinary-assistant-abe4f0aa",
+      "title": "Veterinary Assistant",
+      "state": "Ohio",
+      "loc": "Veterinary Assistant VetCor Full-time Full-time On-site Brecksville, Ohio, United States"
+    },
+    {
+      "href": "/jobs/veterinary-receptionist-greensburg-pa-5ad8f5f3",
+      "title": "Veterinary Receptionist - Greensburg, PA",
+      "state": "Pennsylvania",
+      "loc": " PA VetCor Full-time Full-time On-site Greensburg, Pennsylvania, United States"
+    },
+    {
+      "href": "/jobs/veterinary-technician-eb19d857",
+      "title": "Veterinary Technician",
+      "state": "Ohio",
+      "loc": "Veterinary Technician VetCor Full-time Full-time On-site Cleveland, Ohio, United States"
+    },
+    {
+      "href": "/jobs/licensed-veterinary-technician-76cf9324",
+      "title": "Licensed Veterinary Technician",
+      "state": "Connecticut",
+      "loc": "Licensed Veterinary Technician VetCor Full-time Full-time On-site Canton, Connecticut, United States"
+    },
+    {
+      "href": "/jobs/mobile-veterinarian-81d04a0e",
+      "title": "Mobile Veterinarian",
+      "state": "Texas",
+      "loc": "Mobile Veterinarian BlueSky Full-time Full-time On-site Round Rock, Texas, United States"
+    },
+    {
+      "href": "/jobs/dog-groomer-jr-and-sr-positions-a2726955",
+      "title": "Dog Groomer — Jr. and Sr. Positions",
+      "state": "New Jersey",
+      "loc": " Jr. and Sr. Positions Morris Animal Inn Full-time Full-time On-site Morristown, New Jersey, United States"
+    },
+    {
+      "href": "/jobs/certified-veterinary-technician-ae7c1ead",
+      "title": "Certified Veterinary Technician",
+      "state": "Pennsylvania",
+      "loc": "Certified Veterinary Technician Community Veterinary Partners On-site Allentown, Pennsylvania, United States"
+    },
+    {
+      "href": "/jobs/veterinary-technician-cc0d4099",
+      "title": "Veterinary Technician",
+      "state": "Arkansas",
+      "loc": "Veterinary Technician Concierge Elite Full-time Full-time On-site Fayetteville, Arkansas, United States"
+    },
+    {
+      "href": "/jobs/certified-veterinary-technician-sr-veterinary-assistant-13f5ced2",
+      "title": "Certified Veterinary Technician/SR Veterinary Assistant",
+      "state": "Florida",
+      "loc": "SR Veterinary Assistant Success Today Staffing On-site Jensen Beach, Florida, United States"
+    },
+    {
+      "href": "/jobs/veterinary-practice-manager-dcb4fd4a",
+      "title": "Veterinary Practice Manager",
+      "state": "Virginia",
+      "loc": "Veterinary Practice Manager Encore Vet Group Full-time Full-time On-site Virginia Beach, Virginia, United States"
+    },
+    {
+      "href": "/jobs/urgent-care-veterinarian-ba7a9916",
+      "title": "Urgent Care Veterinarian",
+      "state": "New Hampshire",
+      "loc": "Urgent Care Veterinarian Alliance Animal Health Full-time Full-time On-site Bedford, New Hampshire, United States"
+    },
+    {
+      "href": "/jobs/veterinarian-medical-director-39ed6f84",
+      "title": "Veterinarian, Medical Director",
+      "state": "New Hampshire",
+      "loc": " Medical Director Canobie Lake Veterinary Hospital Full-time Full-time On-site Windham, New Hampshire, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-0b89facf",
+      "title": "Associate Veterinarian",
+      "state": "Massachusetts",
+      "loc": "Associate Veterinarian Alliance Animal Health Full-time Full-time On-site Edgartown, Massachusetts, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-4fc8b3b9",
+      "title": "Associate Veterinarian",
+      "state": "New Hampshire",
+      "loc": "Associate Veterinarian Alliance Animal Health Full-time Full-time On-site Lebanon, New Hampshire, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-01aac618",
+      "title": "Associate Veterinarian",
+      "state": "Massachusetts",
+      "loc": "Associate Veterinarian North Reading Veterinary Clinic Full-time Full-time On-site North Reading, Massachusetts, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-2db62e90",
+      "title": "Associate Veterinarian",
+      "state": "California",
+      "loc": "Associate Veterinarian High Desert Animal Care Hospital Full-time Full-time On-site Palmdale, California, United States"
+    },
+    {
+      "href": "/jobs/regional-veterinarian-medical-director-los-angeles-698f3e39",
+      "title": "Regional Veterinarian Medical Director - Los Angeles",
+      "state": "California",
+      "loc": "Regional Veterinarian Medical Director - Los Angeles Alliance Animal Health Full-time Full-time On-site Pasadena, California, United States"
+    },
+    {
+      "href": "/jobs/retail-pet-store-associate-273bdee3",
+      "title": "Retail Pet Store Associate",
+      "state": "Minnesota",
+      "loc": "Retail Pet Store Associate Wiscon Pet Full-time Full-time On-site Austin, Minnesota, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-5857e977",
+      "title": "Associate Veterinarian",
+      "state": "New York",
+      "loc": "Associate Veterinarian The Pet Doctor Full-time Full-time On-site Queens, New York, United States"
+    },
+    {
+      "href": "/jobs/veterinarian-medical-director-a0cf092d",
+      "title": "Veterinarian, Medical Director",
+      "state": "New York",
+      "loc": " Medical Director The Pet Doctor Full-time Full-time On-site Queens, New York, United States"
+    },
+    {
+      "href": "/jobs/internal-relief-veterinarian-01661b3a",
+      "title": "Internal Relief Veterinarian",
+      "state": "New Hampshire",
+      "loc": "Internal Relief Veterinarian Canobie Lake Veterinary Hospital Full-time Full-time On-site Windham, New Hampshire, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-e2bf2b75",
+      "title": "Associate Veterinarian",
+      "state": "California",
+      "loc": " Cat Hospital Full-time Full-time On-site Los Angeles, California, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-5d84f3ac",
+      "title": "Associate Veterinarian",
+      "state": "New York",
+      "loc": "Associate Veterinarian Companion Pet Hospital Full-time Full-time On-site Fishkill, New York, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-8803bdb1",
+      "title": "Associate Veterinarian",
+      "state": "Massachusetts",
+      "loc": "Associate Veterinarian Alliance Animal Health Full-time Full-time On-site West Tisbury, Massachusetts, United States"
+    },
+    {
+      "href": "/jobs/veterinarian-owner-medical-director-4e8a8158",
+      "title": "Veterinarian Owner/Medical Director",
+      "state": "Connecticut",
+      "loc": "Medical Director Home Veterinary Services Full-time Full-time On-site Trumbull, Connecticut, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-exotics-09fecb04",
+      "title": "Associate Veterinarian - Exotics",
+      "state": "New Hampshire",
+      "loc": "Associate Veterinarian - Exotics Alliance Animal Health Full-time Full-time On-site Lebanon, New Hampshire, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-274a3040",
+      "title": "Associate Veterinarian",
+      "state": "New York",
+      "loc": "Associate Veterinarian Inwood Animal Clinic Full-time Full-time On-site New York, New York, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-5bb23cb6",
+      "title": "Associate Veterinarian",
+      "state": "New York",
+      "loc": "Associate Veterinarian Quality Veterinary Care Full-time Full-time On-site Elmont, New York, United States"
+    },
+    {
+      "href": "/jobs/veterinarian-medical-director-equity-available-37a02873",
+      "title": "Veterinarian Medical Director | Equity Available",
+      "state": "California",
+      "loc": " Equity Available High Desert Animal Care Hospital Full-time Full-time On-site Palmdale, California, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-3b3c3130",
+      "title": "Associate Veterinarian",
+      "state": "California",
+      "loc": "Associate Veterinarian Covina Pet Care Full-time Full-time On-site Covina, California, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-e169f56b",
+      "title": "Associate Veterinarian",
+      "state": "New York",
+      "loc": "Associate Veterinarian Bensonhurst Veterinary Care Full-time Full-time On-site Brooklyn, New York, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-0ae8f8fa",
+      "title": "Associate Veterinarian",
+      "state": "New York",
+      "loc": "Associate Veterinarian Lefferts Animal Hospital Full-time Full-time On-site Queens, New York, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-b6f556fd",
+      "title": "Associate Veterinarian",
+      "state": "New York",
+      "loc": "Associate Veterinarian Corfu Veterinary Clinic Full-time Full-time On-site Corfu, New York, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-389ceff4",
+      "title": "Associate Veterinarian",
+      "state": "Connecticut",
+      "loc": "Associate Veterinarian Candlewood Animal Hospital Full-time Full-time On-site New Milford, Connecticut, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-ccd15069",
+      "title": "Associate Veterinarian",
+      "state": "New York",
+      "loc": "Associate Veterinarian A.C.E. Veterinary Hospital Full-time Full-time On-site Hopewell Junction, New York, United States"
+    },
+    {
+      "href": "/jobs/veterinary-assistant-39fad5e8",
+      "title": "Veterinary Assistant",
+      "state": "North Carolina",
+      "loc": "Veterinary Assistant Community Veterinary Partners On-site Durham, North Carolina, United States"
+    },
+    {
+      "href": "/jobs/licensed-veterinary-technician-31576d3c",
+      "title": "Licensed Veterinary Technician",
+      "state": "South Carolina",
+      "loc": "Licensed Veterinary Technician Lowcountry Vets at Old Town Full-time Full-time On-site Bluffton, South Carolina, United States"
+    },
+    {
+      "href": "/jobs/urgent-care-veterinary-assistant-637e0bf1",
+      "title": "Urgent Care Veterinary Assistant",
+      "state": "Wisconsin",
+      "loc": "Urgent Care Veterinary Assistant American Veterinary Group Full-time Full-time On-site Oak Creek, Wisconsin, United States"
+    },
+    {
+      "href": "/jobs/veterinary-receptionist-la-porte-in-2faf7464",
+      "title": "Veterinary Receptionist - La Porte, IN",
+      "state": "Indiana",
+      "loc": " IN VetCor Part-time Part-time On-site La Porte, Indiana, United States"
+    },
+    {
+      "href": "/jobs/dog-walker-pet-sitter-1099-independent-contractor-northeast-charlotte-db7faedf",
+      "title": "Dog Walker / Pet Sitter (1099 Independent Contractor) – Northeast Charlotte",
+      "state": "North Carolina",
+      "loc": " Northeast Charlotte Swifto Charlotte Contract Contract On-site Charlotte, North Carolina, United States"
+    },
+    {
+      "href": "/jobs/retail-pet-store-associate-627cab2a",
+      "title": "Retail Pet Store Associate",
+      "state": "Wisconsin",
+      "loc": "Retail Pet Store Associate Pet Supplies Plus 4665 Full-time Full-time On-site Sun Prairie, Wisconsin, United States"
+    },
+    {
+      "href": "/jobs/veterinary-client-services-representative-evening-and-overnight-a6b9c074",
+      "title": "Veterinary Client Services Representative - Evening and Overnight",
+      "state": "New York",
+      "loc": "Veterinary Client Services Representative - Evening and Overnight Orchard Park Veterinary Medical Center Full-time Full-time On-site Orchard Park, New York, United States"
+    },
+    {
+      "href": "/jobs/veterinary-client-services-representative-day-shift-35ca494f",
+      "title": "Veterinary Client Services Representative - Day Shift",
+      "state": "New York",
+      "loc": "Veterinary Client Services Representative - Day Shift Orchard Park Veterinary Medical Center Full-time Full-time On-site Orchard Park, New York, United States"
+    },
+    {
+      "href": "/jobs/pet-groomer-weekend-part-time-c52324ef",
+      "title": "Pet Groomer - Weekend - Part Time",
+      "state": "Arizona",
+      "loc": "Pet Groomer - Weekend - Part Time Pet Supplies Plus Arizona Part-time Part-time On-site Phoenix, Arizona, United States"
+    },
+    {
+      "href": "/jobs/veterinary-technician-assistant-3e08c02a",
+      "title": "Veterinary Technician/Assistant",
+      "state": "Illinois",
+      "loc": "Assistant VetCor Full-time Full-time On-site St. Charles, Illinois, United States"
+    },
+    {
+      "href": "/jobs/veterinary-receptionist-18227ef7",
+      "title": "Veterinary Receptionist",
+      "state": "Texas",
+      "loc": "Veterinary Receptionist Cedar Park Animal Clinic Full-time Full-time On-site Cedar Park, Texas, United States"
+    },
+    {
+      "href": "/jobs/veterinary-kennel-technician-f1677e31",
+      "title": "Veterinary Kennel Technician",
+      "state": "Texas",
+      "loc": "Veterinary Kennel Technician Cedar Park Animal Clinic Full-time Full-time On-site Cedar Park, Texas, United States"
+    },
+    {
+      "href": "/jobs/veterinary-assistant-94123761",
+      "title": "Veterinary Assistant",
+      "state": "Texas",
+      "loc": "Veterinary Assistant Cedar Park Animal Clinic Full-time Full-time On-site Cedar Park, Texas, United States"
+    },
+    {
+      "href": "/jobs/pet-groomer-305ad658",
+      "title": "Pet Groomer",
+      "state": "Florida",
+      "loc": "Pet Groomer American Veterinary Group Full-time Full-time On-site Chipley, Florida, United States"
+    },
+    {
+      "href": "/jobs/pet-groomer-e772f91b",
+      "title": "Pet Groomer",
+      "state": "Ohio",
+      "loc": "Pet Groomer Pet Supplies Plus 4007 Part-time Part-time On-site Hamilton, Ohio, United States"
+    },
+    {
+      "href": "/jobs/urgent-care-senior-veterinary-assistant-3f387bc7",
+      "title": "Urgent Care Senior Veterinary Assistant",
+      "state": "Indiana",
+      "loc": "Urgent Care Senior Veterinary Assistant American Veterinary Group Full-time Full-time On-site Greenwood, Indiana, United States"
+    },
+    {
+      "href": "/jobs/experienced-or-licensed-overnight-veterinary-technician-7d915de7",
+      "title": "Experienced or Licensed Overnight Veterinary Technician",
+      "state": "Montana",
+      "loc": "Experienced or Licensed Overnight Veterinary Technician VetCor Full-time Full-time On-site Billings, Montana, United States"
+    },
+    {
+      "href": "/jobs/dog-groomer-f27920f9",
+      "title": "Dog Groomer",
+      "state": "Colorado",
+      "loc": "Dog Groomer Scenthound Full-time Full-time On-site Denver, Colorado, United States"
+    },
+    {
+      "href": "/jobs/veterinary-assistant-3a49cf4e",
+      "title": "Veterinary Assistant",
+      "state": "South Carolina",
+      "loc": "Veterinary Assistant Lowcountry Vets at Old Town Full-time Full-time On-site Bluffton, South Carolina, United States"
+    },
+    {
+      "href": "/jobs/veterinary-technician-840b7c17",
+      "title": "Veterinary Technician",
+      "state": "Florida",
+      "loc": "Veterinary Technician GoodVets On-site Fort Lauderdale, Florida, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-674077e3",
+      "title": "Associate Veterinarian",
+      "state": "Indiana",
+      "loc": "Associate Veterinarian Alliance Animal Health Full-time Full-time On-site Shelbyville, Indiana, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-9624b41e",
+      "title": "Associate Veterinarian",
+      "state": "Indiana",
+      "loc": "Associate Veterinarian Indy Paws Veterinary Hospital Part-time Part-time On-site New Palestine, Indiana, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-f43b84ef",
+      "title": "Associate Veterinarian",
+      "state": "Indiana",
+      "loc": "Associate Veterinarian Franklin Animal Clinic Full-time Full-time On-site Franklin, Indiana, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-c9750d64",
+      "title": "Associate Veterinarian",
+      "state": "Indiana",
+      "loc": "Associate Veterinarian Animal Hospital of Avon Full-time Full-time On-site Avon, Indiana, United States"
+    },
+    {
+      "href": "/jobs/part-time-veterinarian-378a7b9a",
+      "title": "Part Time Veterinarian",
+      "state": "Indiana",
+      "loc": "Part Time Veterinarian South 31 Veterinary Clinic Part-time Part-time On-site Indianapolis, Indiana, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-a204fed6",
+      "title": "Associate Veterinarian",
+      "state": "Indiana",
+      "loc": "Associate Veterinarian Animal Hospital of Martinsville Full-time Full-time On-site Martinsville, Indiana, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-2088094f",
+      "title": "Associate Veterinarian",
+      "state": "South Carolina",
+      "loc": "Associate Veterinarian Blythewood Animal Hospital Full-time Full-time On-site Blythewood, South Carolina, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-57c2d8ab",
+      "title": "Associate Veterinarian",
+      "state": "South Carolina",
+      "loc": "Associate Veterinarian Alliance Animal Health Full-time Full-time On-site Indian Land, South Carolina, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-b90ee0af",
+      "title": "Associate Veterinarian",
+      "state": "South Carolina",
+      "loc": "Associate Veterinarian Integrity Animal Health Group Full-time Full-time On-site Simpsonville, South Carolina, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-2240ae73",
+      "title": "Associate Veterinarian",
+      "state": "South Carolina",
+      "loc": "Associate Veterinarian Santee Animal Hospital Full-time Full-time On-site Santee, South Carolina, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-ac593628",
+      "title": "Associate Veterinarian",
+      "state": "North Carolina",
+      "loc": "Associate Veterinarian Rocky Point Animal Hospital Full-time Full-time On-site Rocky Point, North Carolina, United States"
+    },
+    {
+      "href": "/jobs/associate-veterinarian-ccc5e0b8",
+      "title": "Associate Veterinarian",
+      "state": "South Carolina",
+      "loc": "Associate Veterinarian Batesburg-Leesville Animal Hospital Full-time Full-time On-site Batesburg-Leesville, South Carolina, United States"
+    },
+    {
+      "href": "/jobs/urgent-care-veterinary-practice-manager-c0a73dd0",
+      "title": "Urgent Care Veterinary Practice Manager",
+      "state": "North Carolina",
+      "loc": "Urgent Care Veterinary Practice Manager American Veterinary Group Full-time Full-time On-site Gastonia, North Carolina, United States"
+    },
+    {
+      "href": "/jobs/animal-care-technician-bd8fbc81",
+      "title": "Animal Care Technician",
+      "state": "Michigan",
+      "loc": "Animal Care Technician Dog Gone Fun Full-time Full-time On-site Okemos, Michigan, United States"
+    },
+    {
+      "href": "/jobs/animal-care-technician-f4acc74e",
+      "title": "Animal Care Technician",
+      "state": "North Carolina",
+      "loc": "Animal Care Technician Dog Gone Happy Part-time Part-time On-site Raleigh, North Carolina, United States"
+    },
+    {
+      "href": "/jobs/veterinary-receptionist-tomball-tx-191ac59b",
+      "title": "Veterinary Receptionist - Tomball, TX",
+      "state": "Texas",
+      "loc": " TX VetCor Full-time Full-time On-site Tomball, Texas, United States"
+    },
+    {
+      "href": "/jobs/retail-pet-store-associate-2d235850",
+      "title": "Retail Pet Store Associate",
+      "state": "Texas",
+      "loc": "Retail Pet Store Associate Pet Supplies Plus 4255 Part-time Part-time On-site Waxahachie, Texas, United States"
+    },
+    {
+      "href": "/jobs/aston-veterinary-practice-manager-e56cd52b",
+      "title": "Aston veterinary Practice Manager",
+      "state": "Pennsylvania",
+      "loc": "Aston veterinary Practice Manager Community Veterinary Partners Full-time Full-time On-site Media, Pennsylvania, United States"
+    },
+    {
+      "href": "/jobs/lead-animal-care-technician-e8c0993f",
+      "title": "Lead Animal Care Technician",
+      "state": "North Carolina",
+      "loc": "Lead Animal Care Technician Animal House Wilmington Full-time Full-time On-site Wilmington, North Carolina, United States"
+    },
+    {
+      "href": "/jobs/animal-care-technician-c7e5a3e3",
+      "title": "Animal Care Technician",
+      "state": "South Carolina",
+      "loc": "Animal Care Technician Village Pet Care Part-time Part-time On-site Ridgeland, South Carolina, United States"
+    },
+    {
+      "href": "/jobs/pet-care-specialist-ef429eb0",
+      "title": "Pet Care Specialist",
+      "state": "Alabama",
+      "loc": "Grove Bark Inn Full-time Full-time On-site Auburn, Alabama, United States"
+    },
+    {
+      "href": "/jobs/professional-dog-bather-cumming-ga-the-dog-stop-6ca1d6d6",
+      "title": "Professional Dog Bather | Cumming, GA | The Dog Stop",
+      "state": "Georgia",
+      "loc": " The Dog Stop The Dog Stop Full-time Full-time On-site Cumming, Georgia, United States"
+    },
+    {
+      "href": "/jobs/dog-groomer-trimmer-da77e14d",
+      "title": "Dog Groomer / Trimmer",
+      "state": "California",
+      "loc": " Trimmer Scenthound Part-time Part-time On-site Vista, California, United States"
+    },
+    {
+      "href": "/jobs/animal-care-technician-best-friends-pet-hotel-f1028a4a",
+      "title": "Animal Care Technician - Best Friends Pet Hotel",
+      "state": "New Jersey",
+      "loc": "Animal Care Technician - Best Friends Pet Hotel Best Friends Pet Care Part-time Part-time On-site Greenbrook, New Jersey, United States"
+    },
+    {
+      "href": "/jobs/veterinary-client-service-supervisor-0ac58c7d",
+      "title": "Veterinary Client Service Supervisor",
+      "state": null,
+      "loc": null
+    },
+    {
+      "href": "/jobs/lead-animal-care-technician-c-0c05870f",
+      "title": "Lead Animal Care Technician - C",
+      "state": null,
+      "loc": null
+    },
+    {
+      "href": "/jobs/animal-care-technician-92944998",
+      "title": "Animal Care Technician",
+      "state": "Arizona",
+      "loc": "Animal Care Technician Pinal County Full-time Full-time On-site Az 85190, Arizona, United States"
+    },
+    {
+      "href": "/jobs/animal-care-technician-the-dog-play-spot-9bbe1bc0",
+      "title": "Animal Care Technician - The Dog Play Spot",
+      "state": "North Carolina",
+      "loc": "Animal Care Technician - The Dog Play Spot Best Friends Pet Care On-site Greenville, North Carolina, United States"
+    },
+    {
+      "href": "/jobs/animal-care-technician-senior-departmental-promotion-only-f7be9dd4",
+      "title": "Animal Care Technician, Senior (DEPARTMENTAL PROMOTION ONLY)",
+      "state": "Arizona",
+      "loc": " Pinal County Full-time Full-time On-site Az 85190, Arizona, United States"
+    },
+    {
+      "href": "/jobs/veterinary-receptionist-social-media-coordinator-e18fb275",
+      "title": "Veterinary Receptionist Social Media Coordinator",
+      "state": "Illinois",
+      "loc": "Veterinary Receptionist Social Media Coordinator Partners Veterinary Group Full-time Full-time On-site Chicago, Illinois, United States"
+    },
+    {
+      "href": "/jobs/veterinary-receptionist-520e9eb7",
+      "title": "Veterinary Receptionist",
+      "state": "Oregon",
+      "loc": "Veterinary Receptionist EVCOT Full-time Full-time On-site Tualatin, Oregon, United States"
+    },
+    {
+      "href": "/jobs/veterinary-receptionist-runner-466c0251",
+      "title": "Veterinary Receptionist - Runner",
+      "state": "Ohio",
+      "loc": "Veterinary Receptionist - Runner Animal Clinic Northview On-site North Ridgeville, Ohio, United States"
+    },
+    {
+      "href": "/jobs/dog-groomer-2500-sign-on-bonus-commission-based-career-opportunity-2e6d57e8",
+      "title": "Dog Groomer - $2500 Sign on Bonus (Commission Based Career Opportunity)",
+      "state": null,
+      "loc": null
+    },
+    {
+      "href": "/jobs/pet-care-specialist-607a75c7",
+      "title": "Pet Care Specialist",
+      "state": "California",
+      "loc": "Pet Care Specialist VCA Animal Hospitals Part-time Part-time On-site Lake Forest, California, United States"
+    },
+    {
+      "href": "/jobs/veterinary-hospital-manager-e77b5be5",
+      "title": "Veterinary Hospital Manager",
+      "state": "New Mexico",
+      "loc": "Veterinary Hospital Manager Ethos Veterinary Health Full-time Full-time On-site Albuquerque, New Mexico, United States"
+    },
+    {
+      "href": "/jobs/veterinary-practice-manager-0af83f48",
+      "title": "Veterinary Practice Manager",
+      "state": "Colorado",
+      "loc": "Veterinary Practice Manager Petco Full-time Full-time On-site Villa Italia, Colorado, United States"
+    },
+    {
+      "href": "/jobs/veterinary-receptionist-a6dd0caa",
+      "title": "Veterinary Receptionist",
+      "state": "California",
+      "loc": "Veterinary Receptionist Animal Outpatient Specialty Network Full-time Full-time On-site Pasadena, California, United States"
+    },
+    {
+      "href": "/jobs/allentown-pa-veterinary-practice-manager-75872c30",
+      "title": "Allentown, PA. Veterinary Practice Manager",
+      "state": "Pennsylvania",
+      "loc": " PA. Veterinary Practice Manager Community Veterinary Partners Full-time Full-time On-site Allentown, Pennsylvania, United States"
+    },
+    {
+      "href": "/jobs/part-time-veterinary-kennel-technician-5caaa9bc",
+      "title": "Part-time Veterinary Kennel Technician",
+      "state": "Arkansas",
+      "loc": "Part-time Veterinary Kennel Technician Animal Medical Clinic of Fayetteville Part-time Part-time On-site Fayetteville, Arkansas, United States"
+    },
+    {
+      "href": "/jobs/retail-pet-store-associate-cbdbfd70",
+      "title": "Retail Pet Store Associate",
+      "state": "North Carolina",
+      "loc": "Retail Pet Store Associate Pet Supplies Plus 4007 Part-time Part-time On-site Wilmington, North Carolina, United States"
+    },
+    {
+      "href": "/jobs/morning-dog-walker-a144c918",
+      "title": "Morning Dog Walker",
+      "state": "New York",
+      "loc": "Morning Dog Walker MixyPaws Part-time Part-time On-site New York, New York, United States"
+    },
+    {
+      "href": "/jobs/urgent-care-veterinary-practice-manager-c57ce925",
+      "title": "Urgent Care Veterinary Practice Manager",
+      "state": "Ohio",
+      "loc": "Urgent Care Veterinary Practice Manager American Veterinary Group Full-time Full-time On-site Canal Winchester, Ohio, United States"
+    },
+    {
+      "href": "/jobs/veterinary-receptionist-north-windham-ct-c9062d58",
+      "title": "Veterinary Receptionist - North Windham, CT",
+      "state": "Connecticut",
+      "loc": " CT VetCor Full-time Full-time On-site North Windham, Connecticut, United States"
+    },
+    {
+      "href": "/jobs/experienced-veterinary-receptionist-058f2523",
+      "title": "Experienced Veterinary Receptionist",
+      "state": "Florida",
+      "loc": "Experienced Veterinary Receptionist Mount Dora Veterinary Hospital Full-time Full-time On-site Mount Dora, Florida, United States"
+    },
+    {
+      "href": "/jobs/veterinary-receptionist-d7e0c7b6",
+      "title": "Veterinary Receptionist",
+      "state": "Maine",
+      "loc": "Veterinary Receptionist VetCor Full-time Full-time On-site Portland, Maine, United States"
+    },
+    {
+      "href": "/jobs/pet-groomer-f7b32e7a",
+      "title": "Pet Groomer",
+      "state": "Indiana",
+      "loc": "Pet Groomer Pet Supplies Plus 200 Full-time Full-time On-site Lafayette, Indiana, United States"
+    },
+    {
+      "href": "/jobs/retail-pet-store-associate-evening-stocker-776cfce9",
+      "title": "Retail Pet Store Associate - Evening Stocker",
+      "state": "Pennsylvania",
+      "loc": "Retail Pet Store Associate - Evening Stocker Pet Supplies Plus 4074 Part-time Part-time On-site Erie, Pennsylvania, United States"
+    },
+    {
+      "href": "/jobs/retail-pet-store-associate-morning-cashier-e12c726d",
+      "title": "Retail Pet Store Associate- Morning Cashier",
+      "state": "Pennsylvania",
+      "loc": "Retail Pet Store Associate- Morning Cashier Pet Supplies Plus 4074 Part-time Part-time On-site Erie, Pennsylvania, United States"
+    },
+    {
+      "href": "/jobs/animal-shelter-cleaner-53dcd3b5",
+      "title": "Animal Shelter Cleaner",
+      "state": "Kentucky",
+      "loc": "Animal Shelter Cleaner Boyle County On-site Boyle County, Kentucky, United States"
+    },
+    {
+      "href": "/jobs/veterinary-receptionist-fairfax-va-2eea2a93",
+      "title": "Veterinary Receptionist - Fairfax, VA",
+      "state": "Virginia",
+      "loc": " VA Vetcor Full-time Full-time On-site Fairfax, Virginia, United States"
+    },
+    {
+      "href": "/jobs/veterinary-assistant-veterinary-receptionist-west-coxsackie-ny-f591163e",
+      "title": "Veterinary Assistant/Veterinary Receptionist - West Coxsackie, NY",
+      "state": "New York",
+      "loc": " NY Vetcor Full-time Full-time On-site West Coxsackie, New York, United States"
+    },
+    {
+      "href": "/jobs/dog-bather-groomer-in-training-3fc7f8ae",
+      "title": "Dog Bather Groomer in Training",
+      "state": "Virginia",
+      "loc": "Dog Bather Groomer in Training Scenthound Full-time Full-time On-site Centreville, Virginia, United States"
+    },
+    {
+      "href": "/jobs/animal-care-technician-full-time-53a0364a",
+      "title": "Animal Care Technician-Full-Time",
+      "state": "North Carolina",
+      "loc": "Animal Care Technician-Full-Time Harnett County Full-time Full-time On-site Lillington, North Carolina, United States"
+    },
+    {
+      "href": "/jobs/dog-groomer-716196d7",
+      "title": "Dog Groomer",
+      "state": "Minnesota",
+      "loc": "Dog Groomer The Linn Companies Full-time Full-time On-site South Saint Paul, Minnesota, United States"
+    },
+    {
+      "href": "/jobs/veterinary-practice-manager-3efa6593",
+      "title": "Veterinary Practice Manager",
+      "state": "Florida",
+      "loc": "Veterinary Practice Manager Petco Full-time Full-time On-site Seminole, Florida, United States"
+    },
+    {
+      "href": "/jobs/veterinary-receptionist-b43d2fc6",
+      "title": "Veterinary Receptionist",
+      "state": "New York",
+      "loc": "Veterinary Receptionist Ethos Veterinary Health Full-time Full-time On-site Latham, New York, United States"
+    },
+    {
+      "href": "/jobs/full-time-animal-shelter-front-desk-associate-4b87fd67",
+      "title": "Full-Time Animal Shelter Front Desk Associate",
+      "state": "Kansas",
+      "loc": "Full-Time Animal Shelter Front Desk Associate City of Hutchinson Full-time Full-time On-site Hutchinson, Kansas, United States"
+    },
+    {
+      "href": "/jobs/animal-shelter-services-specialist-part-time-be8b6bc7",
+      "title": "Animal Shelter Services Specialist - Part-Time",
+      "state": "Montana",
+      "loc": "Animal Shelter Services Specialist - Part-Time City of Great Falls Part-time Part-time On-site Great Falls, Montana, United States"
+    },
+    {
+      "href": "/jobs/animal-care-technician-i-adoptions-behavior-counselor-pima-animal-care-center-a693e09c",
+      "title": "Animal Care Technician I - Adoptions &amp; Behavior Counselor - Pima Animal Care Center",
+      "state": "Arizona",
+      "loc": " Behavior Counselor - Pima Animal Care Center Pima County Full-time Full-time On-site Tucson, Arizona, United States"
+    },
+    {
+      "href": "/jobs/animal-care-technician-part-time-a5438b3a",
+      "title": "Animal Care Technician-Part-Time",
+      "state": "North Carolina",
+      "loc": "Animal Care Technician-Part-Time Harnett County Part-time Part-time On-site Lillington, North Carolina, United States"
+    },
+    {
+      "href": "/jobs/kennel-technician-90b5099c",
+      "title": "Kennel Technician",
+      "state": "Florida",
+      "loc": "Kennel Technician VCA Animal Hospitals Part-time Part-time On-site Cape Coral, Florida, United States"
+    },
+    {
+      "href": "/jobs/dog-bather-0dc68492",
+      "title": "Dog Bather",
+      "state": "Virginia",
+      "loc": "Dog Bather Dogtopia Part-time Part-time On-site Alexandria, Virginia, United States"
+    },
+    {
+      "href": "/jobs/animal-care-technician-best-friends-pet-hotel-ashland-a4a97e18",
+      "title": "Animal Care Technician - Best Friends Pet Hotel Ashland",
+      "state": "Massachusetts",
+      "loc": "Animal Care Technician - Best Friends Pet Hotel Ashland Best Friends Pet Care Part-time Part-time On-site Ashland, Massachusetts, United States"
+    },
+    {
+      "href": "/jobs/animal-care-technician-i-foster-counselor-pima-animal-care-center-4038621a",
+      "title": "Animal Care Technician I - Foster Counselor - Pima Animal Care Center",
+      "state": "Arizona",
+      "loc": "Animal Care Technician I - Foster Counselor - Pima Animal Care Center Pima County Part-time Part-time On-site Tucson, Arizona, United States"
+    },
+    {
+      "href": "/jobs/dog-groomer-336a92f8",
+      "title": "Dog Groomer",
+      "state": "Colorado",
+      "loc": "Dog Groomer Sparkle Grooming Co. Full-time Full-time On-site Boulder, Colorado, United States"
+    },
+    {
+      "href": "/jobs/part-time-midday-dog-walker-a6455461",
+      "title": "Part-Time Midday Dog Walker",
+      "state": "South Carolina",
+      "loc": "Part-Time Midday Dog Walker Charleston Dog Walker Part-time Part-time On-site Charleston, South Carolina, United States"
+    },
+    {
+      "href": "/jobs/experienced-dog-bather-f31311af",
+      "title": "Experienced Dog Bather",
+      "state": "Colorado",
+      "loc": "Experienced Dog Bather Sparkle Grooming Co. Full-time Full-time On-site Boulder, Colorado, United States"
+    },
+    {
+      "href": "/jobs/dog-walker-474f0b02",
+      "title": "Dog Walker",
+      "state": "Illinois",
+      "loc": "Dog Walker Windy City Dog Walkers Contract Contract On-site Chicago, Illinois, United States"
+    }
+  ],
+  "notes": [
+    "Four job cards listed a state without a city (or with the city only in the title). Those were assigned to Ohio, Vermont, Florida and Minnesota after a manual check of the card text.",
+    "19 originally unknown; 4 were assigned. The remaining 15 have no state on the card (likely remote or not specified)."
+  ]
+}

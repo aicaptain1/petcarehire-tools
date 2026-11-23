@@ -1,0 +1,11 @@
+Subresource Integrity (sha384, standard base64) for the files at git tag v1.0.0.
+These hashes are of the committed file bytes. Recalculate them after any edit
+to dist/widget.js or dist/salary_tool_payload.json, tag a new release, and
+update docs/loader_snippet.html before pasting the loader into the site.
+Pin jsDelivr to the release tag. Do not use @main.
+
+https://cdn.jsdelivr.net/gh/aicaptain1/petcarehire-tools@v1.0.0/dist/widget.js
+sha384-u1JjUUR8NKeoCoWWwz8CAlmVsTbdKh8VhMV5+Rqg1f82EqPtkSux3418yQxpqCV3
+
+https://cdn.jsdelivr.net/gh/aicaptain1/petcarehire-tools@v1.0.0/dist/salary_tool_payload.json
+sha384-kMlrHfV128dfulJDOaCgyO9eLvZK2sozDmgG1u0iwASuQiMBOxy99Tbr0kQ7HvMH

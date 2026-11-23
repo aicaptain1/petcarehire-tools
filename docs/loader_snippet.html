@@ -1,0 +1,50 @@
+<!--
+  Pet Care Hire salary calculator loader (v1.0.0).
+  Paste into Job Boardly Custom code. Pathname-gated so the data file
+  is fetched only on /blog/pet-care-salary-calculator, not on every page.
+
+  Pinned to release tag v1.0.0. Do not switch this to @main.
+  Recalculate the sha384 hashes if dist/widget.js or
+  dist/salary_tool_payload.json changes, then ship a new tag.
+
+  widget.js:
+    https://cdn.jsdelivr.net/gh/aicaptain1/petcarehire-tools@v1.0.0/dist/widget.js
+    sha384-u1JjUUR8NKeoCoWWwz8CAlmVsTbdKh8VhMV5+Rqg1f82EqPtkSux3418yQxpqCV3
+  payload:
+    https://cdn.jsdelivr.net/gh/aicaptain1/petcarehire-tools@v1.0.0/dist/salary_tool_payload.json
+    sha384-kMlrHfV128dfulJDOaCgyO9eLvZK2sozDmgG1u0iwASuQiMBOxy99Tbr0kQ7HvMH
+-->
+<script>
+(function(){
+  if (location.pathname !== '/blog/pet-care-salary-calculator') return;
+  var REPO = 'aicaptain1/petcarehire-tools';
+  var PIN = 'v1.0.0'; // release tag — not "main"
+  var WIDGET_INTEGRITY = 'sha384-u1JjUUR8NKeoCoWWwz8CAlmVsTbdKh8VhMV5+Rqg1f82EqPtkSux3418yQxpqCV3';
+  var JSON_INTEGRITY = 'sha384-kMlrHfV128dfulJDOaCgyO9eLvZK2sozDmgG1u0iwASuQiMBOxy99Tbr0kQ7HvMH';
+  var BASE = 'https://cdn.jsdelivr.net/gh/' + REPO + '@' + PIN + '/';
+  function ready(fn){
+    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', fn);
+    else fn();
+  }
+  ready(function(){
+    var mount = document.getElementById('pch-salary-tool');
+    if (!mount) {
+      mount = document.createElement('div');
+      mount.id = 'pch-salary-tool';
+      var article = document.querySelector('article, .post, main, .prose') || document.body;
+      article.appendChild(mount);
+    }
+    mount.setAttribute('data-src', BASE + 'dist/salary_tool_payload.json');
+    mount.setAttribute('data-src-integrity', JSON_INTEGRITY);
+    var s = document.createElement('script');
+    s.src = BASE + 'dist/widget.js';
+    s.integrity = WIDGET_INTEGRITY;
+    s.crossOrigin = 'anonymous';
+    s.defer = true;
+    s.onerror = function(){
+      mount.innerHTML = '<p>The salary calculator could not load. Check the pinned tag and the integrity hash.</p>';
+    };
+    document.body.appendChild(s);
+  });
+})();
+</script>
